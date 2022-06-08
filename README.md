@@ -1,7 +1,7 @@
-monachus/hugo
+GetTerminus/docker-hugo
 ==============
 
-`monachus/hugo` is a [Docker](https://www.docker.io) base image for static sites generated with [Hugo](http://gohugo.io).  
+`GetTerminus/docker-hugo` is a [Docker](https://www.docker.io) base image for static sites generated with [Hugo](http://gohugo.io).  
 
 This image is uses the `extended` release of Hugo, which contains support for Sass/SCSS.
 
